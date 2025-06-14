@@ -8,4 +8,4 @@
 ### 5. Random sampling
 ###  ect.
 
-[NumPy-Examples](NummPy-Examples/Numpy_Basic.ipynb))
+[NumPy-Examples](/Numpy_Basic.ipynb)
