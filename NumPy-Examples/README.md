@@ -1,4 +1,4 @@
-# NumPy Examples
+# NumPy
 
 ## Numpy basic examples  
 [Numpy Basics](https://github.com/naveennakshatram/Python-for-Data-Science-and-Machine-Learning/blob/main/NumPy-Examples/NumPy_Basic.ipynb)
