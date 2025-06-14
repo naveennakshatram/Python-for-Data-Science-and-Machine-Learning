@@ -18,6 +18,7 @@
 ### 5. 2D Array Examples
 
 
+
 ## Operators on Numpy Arrays.
 [Operators on Numpy Arrays](https://github.com/naveennakshatram/Python-for-Data-Science-and-Machine-Learning/blob/main/NumPy-Examples/Operators_on_Numpy_Arrays.ipynb)
 
@@ -32,14 +33,4 @@
 ### 2. Advanced Math Functions
 
 
-## Linear Algebra
-[Linear Algebra](https://github.com/naveennakshatram/Python-for-Data-Science-and-Machine-Learning/blob/main/NumPy-Examples/Linear_Algebra.ipynb)
-
-### 1. Scalars
-### 2. Vectors
-### 3. Matrices
-### 4. Tensors
-### 5. Linear transformations
-### 6. Linear Equation
-### 7. System of linear equations
 
