@@ -9,5 +9,3 @@
 ###  ect.
 
 [NumPy-Examples](NummPy-Examples/Numpy_Basic.ipynb))
-
-
