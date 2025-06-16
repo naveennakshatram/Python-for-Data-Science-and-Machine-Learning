@@ -6,4 +6,4 @@ Useing NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Lea
 
 
 ## Pandas
-[NumPy Examples](https://github.com/naveennakshatram/Python-for-Data-Science-and-Machine-Learning/blob/main/Pandas/README.md)
+[Pandas Examples](https://github.com/naveennakshatram/Python-for-Data-Science-and-Machine-Learning/blob/main/Pandas/README.md)
