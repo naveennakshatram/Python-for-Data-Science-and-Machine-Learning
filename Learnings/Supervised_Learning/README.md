@@ -137,4 +137,5 @@ Just like:
 | K-Nearest Neighbors    | Both           |
 | Neural Networks        | Both           |
 
-![alt text](image.png)
+![alt text](Images/image.png)
+[Source](https://medium.com/@gerzson.boros/a-simple-introduction-into-supervised-learning-dcce83ee3ada)
