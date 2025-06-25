@@ -170,7 +170,9 @@ Just like:
 🔁 Supervised Learning Workflow
 
 1. Collect labeled data:
+
     e.g., Data like:
+    
         | Age | Salary | Buys Product (Y) |
         | --- | ------ | ---------------- |
         | 25  | 50k    | Yes              |
